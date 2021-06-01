@@ -22,7 +22,7 @@ namespace Proyecto04.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Aqui descanso";
 
             return View();
         }
