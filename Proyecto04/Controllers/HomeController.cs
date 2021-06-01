@@ -15,7 +15,7 @@ namespace Proyecto04.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "David hizo un ajuste a este titulo.";
 
             return View();
         }
